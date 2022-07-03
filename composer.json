@@ -1,0 +1,21 @@
+{
+  "name": "rzlco666/yii2-rupiah",
+  "description": "Extension to format and convert numbers to text in rupiah.",
+  "type": "yii2-extension",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "rzlco",
+      "email": "syahrizalhanif@itspku.ac.id"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.14"
+  },
+  "autoload": {
+    "psr-4": {
+        "rzlco666\\logic\\": ""
+    }
+  }
+}
